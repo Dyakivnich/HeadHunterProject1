@@ -1,1 +1,2 @@
-# HeadHunterProject1
+# <center> Проект: Анализ резюме из HeadHunter
+
